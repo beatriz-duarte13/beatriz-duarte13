@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Beatriz Duarte 😁
+## Bem-vindo(a) ao perfil da Beatriz Duarte 🖤
 
  <div>
    <a href="https://github.com/beatriz-duarte13">
