@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Beatriz Duarte 🖤
+## Bem-vindo(a) ao meu perfil 🖤
 
  <div>
    <a href="https://github.com/beatriz-duarte13">
@@ -13,7 +13,9 @@
 </div>
  
 <br>
- 
+
+### "O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier
+
 ### Redes abaixo!
  
 <div> 
