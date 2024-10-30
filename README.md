@@ -27,7 +27,7 @@
 
 ---
  
-  <source
+ <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
@@ -36,3 +36,8 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+![snake gif](https://github.com/beatriz-duarte13/beatriz-duarte13/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?beatriz-duarte13=beatriz-duarte13&repo=beatriz-duarte13&theme=react)](https://github.com/beatriz-duarte13/beatriz-duarte13)
