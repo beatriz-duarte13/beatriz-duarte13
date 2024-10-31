@@ -38,5 +38,3 @@
 </picture>
 
 
-![snake gif](https://github.com/beatriz-duarte13/beatriz-duarte13/blob/output/github-contribution-grid-snake.gif)
-
