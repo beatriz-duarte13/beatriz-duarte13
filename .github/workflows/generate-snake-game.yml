@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
-          github_user_name: beatriz_duarte13
+          github_user_name: beatriz-duarte13
           output: dist/snake.svg
 
       - name: Push Snake Game to the output branch
